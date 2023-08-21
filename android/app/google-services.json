@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "419502273155",
+    "project_id": "hook-dat-fishing-louisiana",
+    "storage_bucket": "hook-dat-fishing-louisiana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419502273155:android:eb3dde3f0123200ed5a1b6",
+        "android_client_info": {
+          "package_name": "com.hookdatfishing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419502273155-eq3cccg52ivpb01gv8g4hhrgpluufg34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hookdatfishing",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "419502273155-ojqcibb86cgv2qnksbdcm4pqnmevd1c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCP0Tt-ugYC9mczF8APyZEa_SbaoJquXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419502273155-ojqcibb86cgv2qnksbdcm4pqnmevd1c6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419502273155-jvtm2dgsrijokcu6ct07malbogh4cqd0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hookdatfishing"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
